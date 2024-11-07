@@ -2,7 +2,7 @@
 <templates>
 <clibs name="Efficiant IP">
   <add> 
-    Uhttps://github.com/GiorgiolegersteeDeltics/Drawio-Network-Icons/blob/main/5.drawio.xml
+    Uhttps://raw.githubusercontent.com/GiorgiolegersteeDeltics/Drawio-Network-Icons/refs/heads/main/5.drawio.xml
   </add>
 </clibs>
   <template section="Deltics" url="https://raw.githubusercontent.com/GiorgiolegersteeDeltics/Drawio-Network-Icons/refs/heads/main/Standaard%20A4%20Staand.drawio" preview="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.png" title="A4 Staand" libs="Deltics4" clibs="Deltics8" tags="Deltics"/>
